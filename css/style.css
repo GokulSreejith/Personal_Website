@@ -9,6 +9,7 @@ html {
   font-size: 10px;
   font-family: "Open Sans", sans-serif;
   color: #eee;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -52,6 +53,9 @@ section p {
 .section-heading {
   text-align: center;
   margin-bottom: 3rem;
+}
+#section_skills{
+  margin-top: 8em;
 }
 
 .section-heading h1 {
