@@ -227,9 +227,10 @@ header {
 .landing-text h1 {
   font-size: 8rem;
   font-weight: 500;
-  font-family: "Kaushan Script", sans-serif;
+  font-family: "Lobster", serif;
   background: linear-gradient(to top,#ff00cc 25%, #333399);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   padding: 1rem;
   user-select: none;
@@ -280,7 +281,8 @@ header {
 /*Start about*/
 
 #about {
-  margin-top: 2rem;
+  margin-top: 1rem;
+  
 }
 
 .about .container {
@@ -1106,9 +1108,9 @@ textarea.input100 {
 }
 
 .thankyou h1{
-padding-bottom: 30px
+padding-bottom: 30px;
 }
 
 .thankyou h6{
-font-size: 2rem
+font-size: 2rem;
 }

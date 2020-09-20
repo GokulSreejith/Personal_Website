@@ -47,6 +47,7 @@
   background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
   background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -335,6 +336,5 @@
 .aju{
   float: right;
   position: absolute; 
- bottom: 0;
-
+  bottom: 0;
 }
